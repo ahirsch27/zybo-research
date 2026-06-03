@@ -43,7 +43,7 @@ This project serves as a comprehensive library identifying all publicly known vu
 # Reference Materials
 
 1. [Zybo Z7 Board Reference Manual](https://digilent.com/reference/_media/reference/programmable-logic/zybo-z7/%20zybo-z7_rm.pdf)
-2. []()
+2. [OpenCVE](https://app.opencve.io/cve/)
 3. []()
 4. []()
 5. []()
