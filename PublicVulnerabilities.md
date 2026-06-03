@@ -1,10 +1,10 @@
 # All Known Public Vulnurabilities
 
 ### Vulnerabilities Found:
-1. []() ()
-2. []() ()
-3. []() ()
-4. []() ()
+1. [CVE-2010-0928](https://app.opencve.io/cve/CVE-2010-0928)
+2. [CVE-2022-23822](https://app.opencve.io/cve/CVE-2022-23822)
+3. [CVE-2021-44850](https://app.opencve.io/cve/CVE-2021-44850)
+4. [CVE-2021-27208](https://app.opencve.io/cve/CVE-2021-27208)
 5. []() ()
 6. []() ()
 7. []() ()
@@ -84,7 +84,7 @@ _Known starting points:_
     - Mitigation 
         - X
 
-2. [CVE-2010-0928](https://app.opencve.io/cve/CVE-2010-0928) (Gaisler, Openssl, Xilinx)
+2. []() ()
 
     - Affected components
         - X
@@ -558,7 +558,7 @@ _Document any demonstrated attacks against:_
 
 ### Vulnerabilities Found:
 
-1. []() ()
+1. [CVE-2010-0928](https://app.opencve.io/cve/CVE-2010-0928) (Gaisler, Openssl, Xilinx)
 
     - Affected components
         - X

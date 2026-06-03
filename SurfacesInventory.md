@@ -1,4 +1,4 @@
-## Deliverable 2: Attack Surface Inventory
+# Attack Surface Inventory
 
 _Document all attack surfaces._
 
@@ -23,7 +23,7 @@ _Include:_
     - []() ()
 - PMOD connectors
     - []() ()
-- FMC/Pmod attached peripherals
+- FMC/PMOD attached peripherals
     - []() ()
 - Power/reset circuitry
     - []() ()
@@ -57,8 +57,10 @@ _Include:_
 ### **Software**
 
 - BootROM
+    - [CVE-2021-44850](https://app.opencve.io/cve/CVE-2021-44850)
     - []() ()
 - FSBL
+    - [CVE-2022-23822](https://app.opencve.io/cve/CVE-2022-23822)
     - []() ()
 - U-Boot
     - []() ()
