@@ -1,5 +1,5 @@
 # All Known Public Vulnurabilities
-_Organized by _
+
 
 ## 1\. BootROM Vulnerabilities
 
@@ -15,125 +15,750 @@ _Known starting points:_
 - _CVE-2021-44850_
 - _SD boot image manipulation attacks_
 
-CVEs Found:
+
+### CVEs Found:
+
 1. [CVE-2021-44850](https://app.opencve.io/cve/CVE-2021-44850) (AMD)
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
 2. [CVE-2010-0928](https://app.opencve.io/cve/CVE-2010-0928) (Gaisler, Openssl, Xilinx)
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
 3. [CVE-2021-27208](https://app.opencve.io/cve/CVE-2021-27208) (Xilinx)
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
 4. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+5. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
 
 
 ## 2\. Secure Boot Attacks
 
-Investigate:
+_Investigate:_
 
-- Secure boot implementation
-- RSA authentication weaknesses
-- AES bitstream protection
-- Boot image manipulation
-- Key storage methods
+- _Secure boot implementation_
+- _RSA authentication weaknesses_
+- _AES bitstream protection_
+- _Boot image manipulation_
+- _Key storage methods_
 
-Review:
+_Review_
 
-- AMD secure boot documentation
-- Academic papers targeting Zynq secure boot
+- _AMD secure boot documentation_
+- _Academic papers targeting Zynq secure boot_
+
+CVEs Found:
+1. []() ()
+2. []() ()
+3. []() ()
+4. []() ()
+5. []() ()
 
 ### 3\. FSBL Vulnerabilities
 
-Investigate:
+_Investigate:_
 
-- First Stage Boot Loader weaknesses
-- Open-source FSBL vulnerabilities
-- Authentication bypass opportunities
-- Memory corruption issues
+- _First Stage Boot Loader weaknesses_
+- _Open-source FSBL vulnerabilities_
+- _Authentication bypass opportunities_
+- _Memory corruption issues_
 
-Known starting point:
+_Known starting point:_
 
-- WOOT 2024 "Achilles Heel in Secure Boot"
+- _WOOT 2024 "Achilles Heel in Secure Boot"_
 
-CVEs Found:
+### CVEs Found:
+
 1. [CVE-2022-23822](https://app.opencve.io/cve/CVE-2022-23822) (Xilinx)
 
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+2. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+3. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+4. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+5. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
 
 ## 4\. FPGA Bitstream Security
 
-Research:
+_Research:_
 
-- Bitstream extraction
-- Bitstream cloning
-- Bitstream modification
-- Reverse engineering attacks
-- Side-channel attacks
+- _Bitstream extraction_
+- _Bitstream cloning_
+- _Bitstream modification_
+- _Reverse engineering attacks_
+- _Side-channel attacks_
 
-Include:
+_Include:_
 
-- Starbleed-related research
-- Encrypted bitstream attacks
-- Key recovery attacks
+- _Starbleed-related research_
+- _Encrypted bitstream attacks_
+- _Key recovery attacks_
+
+### CVEs Found:
+
+1. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+2. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+3. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+4. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+5. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
 
 ## 5\. TrustZone Weaknesses
 
-Investigate:
+_Investigate:_
 
-- Misconfiguration risks
-- Secure/non-secure boundary failures
-- DMA bypass attacks
-- Shared resource attacks
-- Covert channels
+- _Misconfiguration risks_
+- _Secure/non-secure boundary failures_
+- _DMA bypass attacks_
+- _Shared resource attacks_
+- _Covert channels_
+
+### CVEs Found:
+
+1. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+2. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+3. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+4. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+5. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
 
 ## 6\. Debug Interface Risks
 
-Investigate:
+_Investigate:_
 
-- JTAG access
-- Debug Access Port (DAP)
-- Manufacturing mode exposure
-- Secure vs non-secure boot behavior
+- _JTAG access_
+- _Debug Access Port (DAP)_
+- _Manufacturing mode exposure_
+- _Secure vs non-secure boot behavior_
 
-Determine:
+_Determine:_
 
-- Whether JTAG can be disabled
-- Whether JTAG can be re-enabled
-- Post-boot debug exposure
+- _Whether JTAG can be disabled_
+- _Whether JTAG can be re-enabled_
+- _Post-boot debug exposure_
+
+### CVEs Found:
+
+1. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+2. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+3. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+4. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+5. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
 
 ## 7\. Side-Channel Attacks
 
-Investigate:
+_Investigate:_
 
-- Differential Power Analysis
-- Timing attacks
-- Electromagnetic leakage
-- Key extraction attacks
+- _Differential Power Analysis_
+- _Timing attacks_
+- _Electromagnetic leakage_
+- _Key extraction attacks_
 
-Document any demonstrated attacks against:
+_Document any demonstrated attacks against:_
 
-- Zynq-7000
-- Cortex-A9
-- FPGA configuration engines
+- _Zynq-7000_
+- _Cortex-A9_
+- _FPGA configuration engines_
+
+### CVEs Found:
+
+1. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+2. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+3. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+4. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+5. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
 
 ## 8\. Fault Injection Attacks
 
-Research:
+_Research:_
 
-- Voltage glitching
-- Clock glitching
-- Electromagnetic fault injection
-- Secure boot bypass through fault injection
+- _Voltage glitching_
+- _Clock glitching_
+- _Electromagnetic fault injection_
+- _Secure boot bypass through fault injection_
+
+### CVEs Found:
+
+1. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+2. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+3. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+4. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+5. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
 
 ## 9\. Linux Security
 
-Investigate:
+_Investigate:_
 
-- Kernel vulnerabilities affecting Zynq deployments
-- Driver vulnerabilities
-- DMA attacks
-- FPGA manager security
-- Device-tree attack vectors
+- Kernel vulnerabilities affecting Zynq deployments_
+- _Driver vulnerabilities_
+- _DMA attacks_
+- _FPGA manager security_
+- _Device-tree attack vectors_
+
+### CVEs Found:
+
+1. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+2. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+3. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+4. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+5. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
 
 ## 10\. Supply Chain and IP Risks
 
-Investigate:
+_Investigate:_
 
-- Malicious FPGA IP
-- Third-party AXI peripherals
-- Hardware Trojans
-- Open-source IP security concerns
+- _Malicious FPGA IP_
+- _Third-party AXI peripherals_
+- _Hardware Trojans_
+- _Open-source IP security concerns_
+
+### CVEs Found:
+
+1. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+2. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+3. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+4. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+5. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
+
+
+
+## Summary of Vulnurabilities
+
+| Identifier (with Links) | Affected Components | Attack Prerequisites | Impact | Public Exploit Availability | Mitigation | Notes |
+| -------- | -------- | -------- | -------- | ------- | -------- | ------- |
+| X | X | X | X | X | X | X |
+| X | X | X | X | X | X | X |
+| X | X | X | X | X | X | X |
+| X | X | X | X | X | X | X |
+| X | X | X | X | X | X | X |
+| X | X | X | X | X | X | X |
+| X | X | X | X | X | X | X |
+| X | X | X | X | X | X | X |
+| X | X | X | X | X | X | X |
+| X | X | X | X | X | X | X |
+| X | X | X | X | X | X | X |
+| X | X | X | X | X | X | X |
+| X | X | X | X | X | X | X |
+| X | X | X | X | X | X | X |
+| X | X | X | X | X | X | X |
+| X | X | X | X | X | X | X |
