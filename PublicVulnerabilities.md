@@ -1,5 +1,59 @@
 # All Known Public Vulnurabilities
 
+### Vulnerabilities Found:
+1. []() ()
+2. []() ()
+3. []() ()
+4. []() ()
+5. []() ()
+6. []() ()
+7. []() ()
+8. []() ()
+9. []() ()
+10. []() ()
+11. []() ()
+12. []() ()
+13. []() ()
+14. []() ()
+15. []() ()
+16. []() ()
+17. []() ()
+18. []() ()
+19. []() ()
+20. []() ()
+21. []() ()
+22. []() ()
+23. []() ()
+24. []() ()
+25. []() ()
+26. []() ()
+27. []() ()
+28. []() ()
+29. []() ()
+30. []() ()
+31. []() ()
+32. []() ()
+33. []() ()
+34. []() ()
+35. []() ()
+36. []() ()
+37. []() ()
+38. []() ()
+39. []() ()
+40. []() ()
+41. []() ()
+42. []() ()
+43. []() ()
+44. []() ()
+45. []() ()
+46. []() ()
+47. []() ()
+48. []() ()
+49. []() ()
+50. []() ()
+
+
+# Detailed Vulnuability Breakdown
 
 ## 1\. BootROM Vulnerabilities
 
@@ -16,7 +70,7 @@ _Known starting points:_
 - _SD boot image manipulation attacks_
 
 
-### CVEs Found:
+### Vulnerabilities Found:
 
 1. [CVE-2021-44850](https://app.opencve.io/cve/CVE-2021-44850) (AMD)
     - Affected components
@@ -98,12 +152,72 @@ _Review_
 - _AMD secure boot documentation_
 - _Academic papers targeting Zynq secure boot_
 
-CVEs Found:
+### Vulnerabilities Found:
+
 1. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
 2. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
 3. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
 4. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
+
 5. []() ()
+
+    - Affected components
+        - X
+    - Attack prerequisites 
+        - X
+    - Impact 
+        - X
+    - Public exploit availability 
+        - X
+    - Mitigation 
+        - X
 
 ### 3\. FSBL Vulnerabilities
 
@@ -118,7 +232,7 @@ _Known starting point:_
 
 - _WOOT 2024 "Achilles Heel in Secure Boot"_
 
-### CVEs Found:
+### Vulnerabilities Found:
 
 1. [CVE-2022-23822](https://app.opencve.io/cve/CVE-2022-23822) (Xilinx)
 
@@ -201,7 +315,7 @@ _Include:_
 - _Encrypted bitstream attacks_
 - _Key recovery attacks_
 
-### CVEs Found:
+### Vulnerabilities Found:
 
 1. []() ()
 
@@ -278,7 +392,7 @@ _Investigate:_
 - _Shared resource attacks_
 - _Covert channels_
 
-### CVEs Found:
+### Vulnerabilities Found:
 
 1. []() ()
 
@@ -360,7 +474,7 @@ _Determine:_
 - _Whether JTAG can be re-enabled_
 - _Post-boot debug exposure_
 
-### CVEs Found:
+### Vulnerabilities Found:
 
 1. []() ()
 
@@ -442,7 +556,7 @@ _Document any demonstrated attacks against:_
 - _Cortex-A9_
 - _FPGA configuration engines_
 
-### CVEs Found:
+### Vulnerabilities Found:
 
 1. []() ()
 
@@ -518,7 +632,7 @@ _Research:_
 - _Electromagnetic fault injection_
 - _Secure boot bypass through fault injection_
 
-### CVEs Found:
+### Vulnerabilities Found:
 
 1. []() ()
 
@@ -595,7 +709,7 @@ _Investigate:_
 - _FPGA manager security_
 - _Device-tree attack vectors_
 
-### CVEs Found:
+### Vulnerabilities Found:
 
 1. []() ()
 
@@ -672,7 +786,7 @@ _Investigate:_
 - _Hardware Trojans_
 - _Open-source IP security concerns_
 
-### CVEs Found:
+### Vulnerabilities Found:
 
 1. []() ()
 
