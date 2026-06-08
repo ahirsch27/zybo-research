@@ -36,10 +36,18 @@
     - AKA [EUVD-2025-20017](https://euvd.enisa.europa.eu/vulnerability/CVE-2025-46733) AKA [GHSA-f35r-hm2m-p6c3](https://github.com/OP-TEE/optee_os/security/advisories/GHSA-f35r-hm2m-p6c3)
 20. [CVE-2023-41325](https://www.cve.org/CVERecord?id=CVE-2023-41325)
     - AKA [EUVD-2023-45838](https://euvd.enisa.europa.eu/vulnerability/CVE-2023-41325) AKA [GHSA-jrw7-63cq-7vhm](https://github.com/OP-TEE/optee_os/security/advisories/GHSA-jrw7-63cq-7vhm)
-21. []()
-22. []()
-23. []()
-24. []()
+21. [CVE-2017-5753](https://www.cve.org/CVERecord?id=CVE-2017-5753)
+    - AKA [EUVD-2017-14830](https://euvd.enisa.europa.eu/vulnerability/CVE-2017-5753)
+    - *_See_ [_ARM Documentation 110280_](https://developer.arm.com/documentation/110280/latest)
+22. [CVE-2018-3693](https://www.cve.org/CVERecord?id=CVE-2018-3693)
+    - AKA [EUVD-2018-15547](https://euvd.enisa.europa.eu/vulnerability/CVE-2018-3693)
+    - *_See_ [_ARM Documentation 110280_](https://developer.arm.com/documentation/110280/latest)
+23. [CVE-2017-5715](https://www.cve.org/CVERecord?id=CVE-2017-5715)
+    - AKA [EUVD-2017-14792](https://euvd.enisa.europa.eu/vulnerability/CVE-2017-5715)
+    - *_See_ [_ARM Documentation 110280_](https://developer.arm.com/documentation/110280/latest)
+24. [CVE-2025-54520](https://www.cve.org/CVERecord?id=CVE-2025-54520) 
+    - AKA [EUVD-2025-31074](https://euvd.enisa.europa.eu/vulnerability/EUVD-2025-31074) AKA [GHSA-pm99-pv2w-ghvr](https://github.com/advisories/GHSA-PM99-PV2W-GHVR)
+    - *_See_ [_Security Bulletin AMD-SB-8018_](https://www.amd.com/en/resources/product-security/bulletin/AMD-SB-8018.html)
 25. []()
 26. []()
 27. []()
@@ -873,10 +881,13 @@ _Investigate:_
 
 ## Summary of Vulnurabilities
 
-| Identifier (with Links) | Affected Components | Attack Prerequisites | Impact | Public Exploit Availability | Mitigation | Notes |
+| Identifier (with Links) | Affected Components | Attack Prerequisites | CVSS | Public Exploit Availability | Mitigation | Notes |
 | -------- | -------- | -------- | -------- | ------- | -------- | ------- |
 | [CVE-2010-0928](https://app.opencve.io/cve/CVE-2010-0928) AKA [EUVD-2010-0953](https://euvd.enisa.europa.eu/vulnerability/CVE-2010-0928) AKA [GHSA-h3c3-6h4v-h278](https://github.com/advisories/GHSA-H3C3-6H4V-H278) | X | X | X | X | X | _See_ [_Research Publication_](https://web.eecs.umich.edu/~valeria/research/publications/DATE10RSA.pdf) |
 | [Decryption Verification Side-Channel Attacks](https://eprint.iacr.org/2016/249.pdf) | X | X | X | X | X | X |
+| [CVE-2017-5715](https://www.cve.org/CVERecord?id=CVE-2017-5715) AKA [EUVD-2017-14792](https://euvd.enisa.europa.eu/vulnerability/CVE-2017-5715) | X | X | X | X | X | _See_ [_ARM Documentation 110280_](https://developer.arm.com/documentation/110280/latest) |
+| [CVE-2017-5753](https://www.cve.org/CVERecord?id=CVE-2017-5753) AKA [EUVD-2017-14830](https://euvd.enisa.europa.eu/vulnerability/CVE-2017-5753) | X | X | X | X | X | _See_ [_ARM Documentation 110280_](https://developer.arm.com/documentation/110280/latest) |
+| [CVE-2018-3693](https://www.cve.org/CVERecord?id=CVE-2018-3693) AKA [EUVD-2018-15547](https://euvd.enisa.europa.eu/vulnerability/CVE-2018-3693) | X | X | X | X | X | _See_ [_ARM Documentation 110280_](https://developer.arm.com/documentation/110280/latest) |
 | [Design Advisory 71225](https://adaptivesupport.amd.com/s/article/71225?language=en_US) | X | X | X | X | X | X |
 | [Design Advisory 71292](https://adaptivesupport.amd.com/s/article/71292?language=en_US) | X | X | X | X | X | X |
 | [Design Advisory 71436](https://adaptivesupport.amd.com/s/article/71436?language=en_US) | X | X | X | X | X | X |
@@ -885,20 +896,17 @@ _Investigate:_
 | [Design Advisory 76125](https://adaptivesupport.amd.com/s/article/76125?language=en_US) | X | X | X | X | X | X |
 | [CVE-2021-27208](https://www.cve.org/CVERecord?id=CVE-2021-27208) AKA [EUVD-2021-13973](https://euvd.enisa.europa.eu/vulnerability/EUVD-2021-13973) AKA [GHSA-pm8p-867f-r9w3](https://github.com/advisories/GHSA-PM8P-867F-R9W3) | X | X | X | X | X | _See_ [_Design Advisory 76201_](https://adaptivesupport.amd.com/s/article/76201?language=en_US) |
 | [CVE-2021-44850](https://www.cve.org/CVERecord?id=CVE-2021-44850) AKA [EUVD-2021-31653](https://euvd.enisa.europa.eu/vulnerability/EUVD-2021-31653) AKA [GHSA-63r5-j25f-4c6v](https://github.com/advisories/GHSA-63R5-J25F-4C6V) | X | X | X | X | X | _See_ [_Design Advisory 76964_](https://adaptivesupport.amd.com/s/article/76964?language=en_US) |
-| [CVE-2022-23822 ("Starbleed")](https://www.cve.org/CVERecord?id=CVE-2022-23822) AKA [EUVD-2022-28751](https://euvd.enisa.europa.eu/vulnerability/EUVD-2022-28751) AKA [GHSA-734j-8w33-h29h](https://github.com/advisories/GHSA-734J-8W33-H29H) | X | X | X | X | X | _See_ [_Design Advisory 76974_](https://adaptivesupport.amd.com/s/article/76974?language=en_US) |
+| [CVE-2022-23822](https://www.cve.org/CVERecord?id=CVE-2022-23822) AKA [EUVD-2022-28751](https://euvd.enisa.europa.eu/vulnerability/EUVD-2022-28751) AKA [GHSA-734j-8w33-h29h](https://github.com/advisories/GHSA-734J-8W33-H29H) AKA  ("Starbleed") | X | X | X | X | X | _See_ [_Design Advisory 76974_](https://adaptivesupport.amd.com/s/article/76974?language=en_US) |
 | [eFUSE Volatile Mode Overrides via JTAG](https://adaptivesupport.amd.com/s/question/0D54U000075Wn9sSAC/zynq-7000-dft-jtag-disable-and-dft-mode-disable-efuses-and-their-effect-on-the-arm-dap-and-pl-tap?language=en_US) | X | X | X | X | X | X |
 | [CVE-2023-41325](https://www.cve.org/CVERecord?id=CVE-2023-41325) AKA [EUVD-2023-45838](https://euvd.enisa.europa.eu/vulnerability/CVE-2023-41325) AKA [GHSA-jrw7-63cq-7vhm](https://github.com/OP-TEE/optee_os/security/advisories/GHSA-jrw7-63cq-7vhm) | X | X | X | X | X | X |
 | [CVE-2025-46733](https://www.cve.org/CVERecord?id=CVE-2025-46733) AKA [EUVD-2025-20017](https://euvd.enisa.europa.eu/vulnerability/CVE-2025-46733) AKA [GHSA-f35r-hm2m-p6c3](https://github.com/OP-TEE/optee_os/security/advisories/GHSA-f35r-hm2m-p6c3) | X | X | X | X | X | X |
+| [CVE-2025-54520](https://www.cve.org/CVERecord?id=CVE-2025-54520) AKA [EUVD-2025-31074](https://euvd.enisa.europa.eu/vulnerability/EUVD-2025-31074) AKA [GHSA-pm99-pv2w-ghvr](https://github.com/advisories/GHSA-PM99-PV2W-GHVR) | Artix™ 7-Series FPGA | X | X | X | X | _See_ [_Security Bulletin AMD-SB-8018_](https://www.amd.com/en/resources/product-security/bulletin/AMD-SB-8018.html) |
 | [CVE-2026-33317](https://www.cve.org/CVERecord?id=CVE-2026-33317) AKA [EUVD-2026-25379](https://euvd.enisa.europa.eu/vulnerability/CVE-2026-33317) AKA [GHSA-8cqw-mg7v-c9p9](https://github.com/OP-TEE/optee_os/security/advisories/GHSA-8cqw-mg7v-c9p9) | X | X | X | X | X | X |
 | [CVE-2026-33662](https://www.cve.org/CVERecord?id=CVE-2026-33662) AKA [EUVD-2026-25592](https://euvd.enisa.europa.eu/vulnerability/CVE-2026-33662) AKA [GHSA-4cf8-v5g3-73gr](https://github.com/OP-TEE/optee_os/security/advisories/GHSA-4cf8-v5g3-73gr) | X | X | X | X | X | X |
 | [DevC Multi-Boot Register Bitstream Downgrade Attack](https://adaptivesupport.amd.com/s/question/0D5Pd00001VDzBTKA1/zynq-7000-secure-boot-reset-issue?language=en_US) | X | X | X | X | X | X |
 | [CVE-2026-40290](https://www.cve.org/CVERecord?id=CVE-2026-40290) AKA [EUVD-2026-34139](https://euvd.enisa.europa.eu/vulnerability/EUVD-2026-34139) AKA [GHSA-332c-xr93-849m](https://github.com/OP-TEE/optee_os/security/advisories/GHSA-332c-xr93-849m) | X | X | X | X | X | X |
 | [CVE-2026-45702](https://www.cve.org/CVERecord?id=CVE-2026-45702) AKA [EUVD-2026-34160](https://euvd.enisa.europa.eu/vulnerability/EUVD-2026-34160) AKA [GHSA-86pj-8xgw-66p5](https://github.com/OP-TEE/optee_os/security/advisories/GHSA-86pj-8xgw-66p5) | X | X | X | X | X | X |
 | [CVE-2026-45614](https://www.cve.org/CVERecord?id=CVE-2026-45614) AKA [EUVD-2026-34159](https://euvd.enisa.europa.eu/vulnerability/EUVD-2026-34159) AKA [GHSA-g6qf-hwf7-mg9h](https://github.com/OP-TEE/optee_os/security/advisories/GHSA-g6qf-hwf7-mg9h) | X | X | X | X | X | X |
-| X | X | X | X | X | X | X |
-| X | X | X | X | X | X | X |
-| X | X | X | X | X | X | X |
-| X | X | X | X | X | X | X |
 | X | X | X | X | X | X | X |
 | X | X | X | X | X | X | X |
 | X | X | X | X | X | X | X |
