@@ -2,28 +2,28 @@
 
 This project serves as a comprehensive library identifying all publicly known vulnerabilities, attack vectors, security weaknesses, and mitigations applicable to:
 
-- Zybo Z7 development boards
-- Zynq-7000 SoC devices
-- Zynq boot chain and secure boot implementation
-- FPGA configuration and bitstream security
-- ARM Cortex-A9 processing system
-- TrustZone implementation
-- Linux and bare-metal deployments on Zynq
-- Debug and manufacturing interfaces (JTAG, UART, SD, QSPI, USB, Ethernet)
-- Third-party IP blocks commonly deployed on Zynq systems
+- Zybo Z7 Development Boards
+- Zynq-7000 SoC Devices
+- Zynq Boot Chain and Secure Boot Implementation
+- FPGA configuration and Bitstream Security
+- ARM Cortex-A9 Processing System
+- TrustZone Implementation
+- Linux and Bare-Metal Deployments on Zynq
+- Debug and Manufacturing Interfaces (JTAG, UART, SD, QSPI, USB, Ethernet)
+- Third-party IP Blocks Commonly Deployed on Zynq Systems
 
 #
-# TLDR: 
+# **TLDR:** 
 
-## Overall security posture of Zybo Z7
+## Overall Security Posture of Zybo Z7
 
 
 
-## Most critical attack paths
+## Most Critical Attack Paths
 
 - 
 
-## High-risk vulnerabilities
+## High-Risk Vulnerabilities
 
 1. 
 2. 
@@ -31,20 +31,20 @@ This project serves as a comprehensive library identifying all publicly known vu
 4. 
 5. 
 
-## Recommended mitigations
+## Recommended Mitigations
 
 1. 
 2. 
 3. 
 4. 
 
-## Residual risk after mitigation
+## Residual Risk After Mitigation
 
 - 
 
 
 #
-# Reference Materials
+# **Reference Materials**
 
 1. [Zybo Z7 Board Reference Manual](https://digilent.com/reference/_media/reference/programmable-logic/zybo-z7/%20zybo-z7_rm.pdf)
 2. [Zynq 7000 SoC Software Developers Guide (UG821)](https://docs.amd.com/r/en-US/ug821-zynq-7000-swdev)
