@@ -41,7 +41,6 @@
     <li><a href="#attack-surface-inventory">Attack Surface Inventory</a></li>
     <li><a href="#reference-materials">Reference Materials</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
