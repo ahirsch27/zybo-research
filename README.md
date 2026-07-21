@@ -1,24 +1,16 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 
-<!-- PROJECT SHIELDS -->
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/irys-intern/zybo-research">
+  <a href="https://github.com/irys-intern/zybo-research/tree/main/Images">
     <img src="images/logo.png" alt="Logo" width="128" height="90">
   </a>
 
   <h3 align="center">Zynq-7000 Vulnerability Assessment</h3>
 
   <p align="center">
-    A comprehensive security assessment of the AMD Zynq-7000 SoC — covering BootROM, secure boot, FPGA bitstream, TrustZone, side-channel attacks, and more.
-    <br />
-    <a href="https://github.com/irys-intern/zybo-research"><strong>Explore the docs »</strong></a>
+    A comprehensive security assessment and resource library of the AMD Zynq-7000 SoC — covering BootROM, secure boot, FPGA bitstream, TrustZone, side-channel attacks, and more.
     <br />
     <br />
     <a href="https://github.com/irys-intern/zybo-research/issues/new?labels=bug&template=bug-report---.md">Report Issue</a>
@@ -29,7 +21,6 @@
 
 ---
 
-<!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -41,14 +32,12 @@
     <li><a href="#attack-surface-inventory">Attack Surface Inventory</a></li>
     <li><a href="#reference-materials">Reference Materials</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
 ---
 
-<!-- SCOPE & VERSIONING -->
 ## Scope & Versioning
 
 
@@ -60,18 +49,24 @@
 | Research Domains | 10 of 10 ✅ Complete |
 | Last Updated | July 6, 2026 |
 
+## Built With
+
+* [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+* [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
+* [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](https://app.notion.com/p/Zynq-7000-Vulnerability-Assessment-382f2a6280d38122afcbc2af16791df3?source=copy_link)
+* [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
+* [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
+* [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://www.microsoft.com/en-us/windows)
 ---
 
-<!-- ASSESSMENT SUMMARY -->
+
 ## Assessment Summary
 
 > *An executive security assessment and prioritized mitigation roadmap for the Zynq-7000, tailored for security managers and lead engineers to evaluate threats rapidly before a deployment decision.*
 
 [View Assessment Summary](Zynq-7000%20Vulnerability%20Assessment/Assessment%20Summary.md)
 
----
 
-<!-- THREAT MODEL -->
 ## Threat Model
 
 > *A foundational overview of the threat model's scope, attacker profiles, and risk assessment criteria, designed to help auditors and stakeholders understand the baseline assumptions and boundaries before evaluating findings.*
@@ -79,36 +74,29 @@
 [View Threat Model](Zynq-7000%20Vulnerability%20Assessment/Threat%20Model.md)
 
 
----
 
-<!-- VULNERABILITY DATABASE -->
 ## Vulnerability Database
 
 > *A comprehensive, multi-indexed vulnerability catalog of all documented CVEs, advisories, and findings detailing CVSS scores, components, and exploit availability, structured for security analysts, engineers, and researchers to triage threats and check patch status.*
 
 [View Vulnerability Database](Zynq-7000%20Vulnerability%20Assessment/Vulnerability%20Database%20287bad1d4fd04f06a08de35ef1a3358d.csv)
 
----
 
-<!-- RESEARCH TOPICS -->
 ## Research Topics
 
 > *A detailed, ten-part technical deep dive into major Zynq-7000 attack domains, covering everything from BootROM and FPGA bitstream security to side-channel attacks and fault injection, built to help penetration testers, researchers, and engineers analyze vulnerabilities and design security controls.*
 
 [View Research Topics](Zynq-7000%20Vulnerability%20Assessment/Research%20Topics.md)
 
----
 
-<!-- ATTACK SURFACE INVENTORY -->
+
 ## Attack Surface Inventory
 
 > *An attack surface mapping of the Zynq-7000 across physical interfaces, processing system, programmable logic, and the software stack, documenting vulnerabilities, risk levels, and mitigations for security architects and red teams assessing physical exposure.*
 
 [View Attack Surface Inventory](Zynq-7000%20Vulnerability%20Assessment/Attack%20Surface%20Inventory.md)
 
----
 
-<!-- REFERENCE MATERIALS -->
 ## Reference Materials
 
 > *A curated library of official AMD/Xilinx documentation, ARM architecture guides, academic papers, design advisories, and public exploit references, annotated with cross-references to assist researchers, engineers, and analysts verifying security configurations.*
@@ -131,25 +119,15 @@ Contributions are welcome. If you have a finding to add, please fork the repo an
 
 ## Contact
 
-Avery Hirsch - averyhirsch@irystechnologies.com
+**Avery Hirsch**
+<br>*Cyber Security Research Intern (Summer 2026), Irys Technologies*
 
-Project Link: [https://github.com/irys-intern/zybo-research](https://github.com/irys-intern/zybo-research)
+![Static Badge](https://img.shields.io/badge/Email%20Me-DC1027?style=plastic&logo=minutemailer&logoColor=black&logoSize=auto&color=DC1027&link=mailto%3Ahirsch_avery%40yahoo.com%3Fsubject%3DZynq-7000%2520Project%2520-%2520%255BInsert%2520Subject%2520Here%255D)
+ [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/ahirsch27) ![Static Badge](https://img.shields.io/badge/See%20My%20Other%20Projects-2b3137?style=plastic&logo=github&logoColor=white&logoSize=auto&color=2b3137&link=https%3A%2F%2Fgithub.com%2Fahirsch27)
+
+
+
 
 ---
 
 <p align="right">~<a href="#readme-top">Back to Top</a>~</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/irys-intern/zybo-research.svg?style=for-the-badge
-[contributors-url]: https://github.com/irys-intern/zybo-research/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/irys-intern/zybo-research.svg?style=for-the-badge
-[forks-url]: https://github.com/irys-intern/zybo-research/network/members
-[stars-shield]: https://img.shields.io/github/stars/irys-intern/zybo-research.svg?style=for-the-badge
-[stars-url]: https://github.com/irys-intern/zybo-research/stargazers
-[issues-shield]: https://img.shields.io/github/issues/irys-intern/zybo-research.svg?style=for-the-badge
-[issues-url]: https://github.com/irys-intern/zybo-research/issues
-[license-shield]: https://img.shields.io/github/license/irys-intern/zybo-research.svg?style=for-the-badge
-[license-url]: https://github.com/irys-intern/zybo-research/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/ahirsch27
-[product-screenshot]: images/screenshot.png
