@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/irys-intern/zybo-research/tree/main/Images">
-    <img src="images/logo.png" alt="Logo" width="128" height="90">
+    <img width="128" height="90" alt="logo" src="https://github.com/user-attachments/assets/121d67a0-cd95-40be-9d2b-b1b9b7eb5f1c" />
   </a>
 
   <h3 align="center">Zynq-7000 Vulnerability Assessment</h3>
