@@ -139,16 +139,9 @@ Project Link: [https://github.com/irys-intern/zybo-research](https://github.com/
 <p align="right">~<a href="#readme-top">Back to Top</a>~</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/irys-intern/zybo-research.svg?style=for-the-badge
-[contributors-url]: https://github.com/irys-intern/zybo-research/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/irys-intern/zybo-research.svg?style=for-the-badge
-[forks-url]: https://github.com/irys-intern/zybo-research/network/members
 [stars-shield]: https://img.shields.io/github/stars/irys-intern/zybo-research.svg?style=for-the-badge
 [stars-url]: https://github.com/irys-intern/zybo-research/stargazers
 [issues-shield]: https://img.shields.io/github/issues/irys-intern/zybo-research.svg?style=for-the-badge
 [issues-url]: https://github.com/irys-intern/zybo-research/issues
-[license-shield]: https://img.shields.io/github/license/irys-intern/zybo-research.svg?style=for-the-badge
-[license-url]: https://github.com/irys-intern/zybo-research/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/ahirsch27
-[product-screenshot]: images/screenshot.png
