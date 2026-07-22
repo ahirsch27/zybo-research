@@ -122,7 +122,7 @@ Contributions are welcome. If you have a finding to add, please fork the repo an
 **Avery Hirsch**
 <br>*Cyber Security Research Intern (Summer 2026), Irys Technologies*
 
-[![Email](https://img.shields.io/badge/Email%20Me-DC1027?style=plastic&logo=minutemailer&logoColor=black&logoSize=auto&color=DC1027)](mailto:hirsch_avery@yahoo.com?subject=Zynq-7000%20Project%20-%20%5BInsert%20Subject%20Here%5D)
+[![Email](https://img.shields.io/badge/Email%20Me-DC1027?style=plastic&logo=minutemailer&logoColor=white&logoSize=auto&color=DC1027)](mailto:hirsch_avery@yahoo.com?subject=Zynq-7000%20Project%20-%20%5BInsert%20Subject%20Here%5D)
  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/ahirsch27) 
  [![GitHub](https://img.shields.io/badge/See%20My%20Other%20Projects-%23121011.svg?logo=github&logoColor=white)](https://github.com/ahirsch27)
 
