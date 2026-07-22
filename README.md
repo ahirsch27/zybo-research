@@ -124,7 +124,7 @@ Contributions are welcome. If you have a finding to add, please fork the repo an
 
 ![Static Badge](https://img.shields.io/badge/Email%20Me-DC1027?style=plastic&logo=minutemailer&logoColor=black&logoSize=auto&color=DC1027&link=mailto%3Ahirsch_avery%40yahoo.com%3Fsubject%3DZynq-7000%2520Project%2520-%2520%255BInsert%2520Subject%2520Here%255D)
  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/ahirsch27) 
- [![GitHub](https://img.shields.io/badge/See%20My%20Other%20Projects-%23121011.svg?logo=github&logoColor=white)](https%3A%2F%2Fgithub.com%2Fahirsch27)
+ [![GitHub](https://img.shields.io/badge/See%20My%20Other%20Projects-%23121011.svg?logo=github&logoColor=white)](https://github.com/ahirsch27)
 
 
 
