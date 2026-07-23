@@ -10,9 +10,13 @@
   <h3 align="center">Zynq-7000 Vulnerability Assessment</h3>
 
   <p align="center">
-    A comprehensive security assessment and resource library of the AMD Zynq-7000 SoC — covering BootROM, secure boot, FPGA bitstream, TrustZone, side-channel attacks, and more.
-    <br />
-    <br />
+    A comprehensive security assessment and resource library of the AMD Zynq-7000 SoC — covering BootROM, secure boot, FPGA bitstream, TrustZone, side-channel attacks, and more. <br />
+
+  > **This project is NOT open-source.** <br>
+  All intellectual property rights remain exclusively with **Irys Technologies and Avery Hirsch**. <br>
+  The materials in this repository are provided solely for public viewing and restrictive academic/professional research evaluation. Any unauthorized copying, modification, redistribution, or commercial use is strictly prohibited under default copyright law. <br> *See `LICENSE.md` for full terms.*
+  >
+<br>
     <a href="https://github.com/irys-intern/zybo-research/issues/new?labels=bug&template=bug-report---.md">Report Issue</a>
     &middot;
     <a href="https://github.com/irys-intern/zybo-research/issues/new?labels=enhancement&template=feature-request---.md">Request Addition</a>
